@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#022552",
+            "lang-select-color": "#222829",
+            "bg-light": "#022552",
+            "welcome-bonus-bg": "#022552",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#034092",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#E4CB3B",
+            "text-head": "#022552",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#E4CB3B",
+            "yellow": "#ffffff",
+            "yellow-button": "#E4CB3B",
+            "button-text": "#022552",
+            "main-button-text": "#022552",
+            "border-color": "#efefdc",
+            "casino-cards": "#022552",
+            "bonus-border-head": "#022552",
+            "bonus-border": "#ffffff",
+            "providers-back": "#022552",
+            "faq-label": "#022552",
+            "bg-footer": "#022552",
+            "copyright": "#e7e7d5",
+            "starColor": "#E4CB3B",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7061"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7062",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Spielbank Bad Zwischenahn Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7063",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Spielbank Bad Zwischenahn"
+        }
+    },
+    "pages": [
+        {
+            "id": "de-de-de-DE",
+            "path": "\/",
+            "name": "Немецкий",
+            "languageCode": "de",
+            "regionCode": "DE",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Spielbank Bad Zwischenahn",
+                    "title": "Spielbank Bad Zwischenahn – Casino in Niedersachsen",
+                    "description": "Erleben Sie die Spielbank Bad Zwischenahn – Ihr staatlich lizenziertes Casino in Niedersachsen. Jackpots, Slots & Tischspiele. Jetzt besuchen!",
+                    "canonical": "casino-spielbank-bad-zwischenahn.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7064",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-spielbank-bad-zwischenahn.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7065"
+                },
+                "hero": {
+                    "title": "Ihr staatliches Casino in Bad Zwischenahn",
+                    "textDesktop": "Exklusives Willkommensangebot von",
+                    "textMobile": "Exklusives Willkommensangebot von",
+                    "playGame": "Spiel starten",
+                    "claimBonus": "Bonus sichern",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7066",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7067",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Bonus sichern",
+                    "title": "Top-Casino",
+                    "allCasino": "Alle Casino",
+                    "welcomeBonusText": "Willkommensbonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonusdetails",
+                    "getBonusButtonText": "Bonus erhalten",
+                    "maximumAmountText": "Maximalbetrag",
+                    "wagerText": "Umsatz",
+                    "bonusCodeText": "Bonuscode",
+                    "casino": "Kasino",
+                    "bonuses": "Boni",
+                    "rate": "Rate",
+                    "freeSpins": "Frei Spins",
+                    "moreInfo": "Mehr Info",
+                    "get": "Get",
+                    "refresh": "Aktualisieren"
+                },
+                "advantages": {
+                    "title": "Vorteile",
+                    "advantagesBeforeText": "Suchen Sie ein seriöses Casino in Niedersachsen? Die Spielbank Bad Zwischenahn ist staatlich lizenziert und bietet klassische Tischspiele, moderne Slots und attraktive Jackpots. Hier sind unsere stärksten Vorteile:",
+                    "items": [
+                        "Staatlich lizenziert durch das Land Niedersachsen",
+                        "Progressive Jackpots: Cash Connections & Mad Millions",
+                        "Breites Angebot an Slots von Merkur Gaming",
+                        "Klassische Tischspiele: Roulette & Blackjack",
+                        "Sicher & fair – geprüft nach deutschen Glücksspielstandards",
+                        "Direkt in Bad Zwischenahn – ideal für Kurort-Besucher"
+                    ],
+                    "advantagesAfterText": "Besuchen Sie uns in Bad Zwischenahn und überzeugen Sie sich selbst. Unser Team begrüßt Sie herzlich und sorgt für ein unvergessliches Spielerlebnis in Niedersachsen.",
+                    "knowMore": "Mehr erfahren",
+                    "appTitle": "Spielbank Bad Zwischenahn App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7068",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Spielbank Bad Zwischenahn App",
+                    "mobileGooglePlayImageTitle": "Spielbank Bad Zwischenahn App",
+                    "mobileIosImageTitle": "Spielbank Bad Zwischenahn App"
+                },
+                "games": {
+                    "playNowText": "Jetzt spielen",
+                    "title": "Beliebte Spiele",
+                    "allGames": "Alle Spiele"
+                },
+                "about": {
+                    "history": {
+                        "title": "Über die Spielbank Bad Zwischenahn",
+                        "description1": "Wir sind die Spielbank Bad Zwischenahn – ein staatlich lizenziertes Casino im Herzen von Niedersachsen. Seit Jahrzehnten bieten wir Gästen aus der Region erstklassige Unterhaltung mit Slots und Tischspielen.",
+                        "items": [
+                            "Staatliche Lizenzierung durch Niedersachsen",
+                            "Einführung moderner Merkur-Jackpot-Automaten",
+                            "Erweiterung des Tischspielangebots & Roulette",
+                            "Zertifizierter Betrieb nach deutschen Glücksspielgesetzen"
+                        ],
+                        "description2": "Wir betreiben unser Casino unter staatlicher Konzession des Landes Niedersachsen. Alle Geräte sind nach dem Glücksspielstaatsvertrag zertifiziert und regelmäßig geprüft. Ihre Daten und Transaktionen schützen wir mit modernster Sicherheitstechnik.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7069",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Wir erweitern unser Spielangebot kontinuierlich für Gäste aus Bad Zwischenahn und ganz Niedersachsen. Verantwortungsvolles Spielen liegt uns am Herzen – mit Einzahlungslimits und Selbstausschluss. Besuchen Sie uns und erleben Sie Premium-Entertainment!"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Spielangebot der Spielbank Bad Zwischenahn",
+                        "description": "<h2>Spielangebot der Spielbank Bad Zwischenahn – Slots, Tischspiele & Jackpots<\/h2>\n\n<p>In unserer Spielbank Bad Zwischenahn erwartet Sie ein vielfältiges und hochwertiges Spielangebot, das keine Wünsche offenlässt. Als staatlich lizenziertes Casino in Niedersachsen betreiben wir eine moderne Spielstätte, in der Sie sowohl klassische Casinospiele als auch aktuelle Slotmaschinen von Merkur Gaming genießen können. Unser Haus verbindet die Tradition des Glücksspiels mit modernster Unterhaltungstechnologie – für ein unvergessliches Erlebnis mitten in Bad Zwischenahn. Alle unsere Geräte und Tischspiele sind nach dem deutschen Glücksspielstaatsvertrag zertifiziert und werden regelmäßig von unabhängigen Prüfbehörden kontrolliert. Damit garantieren wir Ihnen faire Gewinnchancen und sicheres Spielen auf höchstem Niveau.<\/p>\n\n<h3>Unsere Slotmaschinen – Modernste Automatenspiele in Niedersachsen<\/h3>\n\n<p>Suchen Sie die besten Slotmaschinen in Bad Zwischenahn? In unserer Spielbank finden Sie eine umfangreiche Auswahl an modernen Geldspielgeräten und Videoslots von Merkur Gaming – einem der führenden deutschen Spieleentwickler mit jahrzehntelanger Erfahrung. Unsere Automaten bieten abwechslungsreiche Themen, attraktive Bonusfunktionen und faire Auszahlungsquoten (RTP), die regelmäßig durch staatliche Stellen überprüft werden. Von klassischen Fruchtautomaten bis hin zu modernen Video-Slots mit Freispielrunden und Multiplikatoren ist für jeden Geschmack etwas dabei. Besucher aus dem Kurort Bad Zwischenahn und der gesamten Region Niedersachsen schätzen besonders die entspannte Atmosphäre und das breite Angebot unseres Spielhallenbereichs.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Merkur Gaming Slots:<\/strong> Klassische und moderne Slotmaschinen des renommierten deutschen Herstellers Merkur – mit bewährten Spielmechaniken, hohen RTP-Werten und regelmäßigen Software-Updates. Beliebt sind Titel wie Blazing Star, Multi Win und Sizzling Hot Deluxe.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video-Slots mit Bonusrunden:<\/strong> Moderne Videoslots mit interaktiven Freispielfunktionen, Scatter-Symbolen und Wild-Features. Jeder Spin kann eine Bonusrunde auslösen und Ihre Gewinnchancen deutlich erhöhen.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Klassische Früchteautomaten:<\/strong> Traditionelle Geldspielgeräte im Retro-Look, ideal für Gäste, die den Charme des klassischen Casinoflairs bevorzugen. Einfaches Gameplay, faire Quoten und sofortiger Spielspaß.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Multiline-Automaten:<\/strong> Slots mit bis zu 50 Gewinnlinien für maximale Gewinnkombinationen pro Spin. Diese Geräte bieten zahlreiche Einsatzstufen – ideal für Casual-Spieler und erfahrene Gäste gleichermaßen.<\/li>\n<\/ul>\n\n<h3>Progressive Jackpots – Unsere aktuellen Großgewinne in Bad Zwischenahn<\/h3>\n\n<p>Welche Jackpots sind aktuell in der Spielbank Bad Zwischenahn verfügbar? Wir bieten gleich mehrere progressive Jackpot-Automaten, die mit jedem Spin wachsen und regelmäßig für außergewöhnliche Großgewinne sorgen. Progressive Jackpots sind mit anderen Merkur-Spielbanken in Niedersachsen vernetzt, sodass die Gewinntöpfe besonders schnell ansteigen. Unsere aktuellen Jackpot-Highlights sind Cash Connections und Mad Millions – beide mit nachgewiesenen Gewinnausschüttungen im fünfstelligen Bereich.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #e8b923;\">\n      <th style=\"border: 1px solid #194073; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Jackpot<\/th>\n      <th style=\"border: 1px solid #194073; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Stand<\/th>\n      <th style=\"border: 1px solid #194073; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Typ<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #042045;\">\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\"><strong>Cash Connections<\/strong><\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">16.871 €<\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">Progressiv<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0d3261;\">\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\"><strong>Mad Millions<\/strong><\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">11.279 €<\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">Progressiv<\/td>\n    <\/tr>\n    <tr style=\"background-color: #042045;\">\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\"><strong>Fu Gui Hong Hua<\/strong><\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">–<\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">Progressiv<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Tischspiele – Klassisches Casinoerlebnis in Niedersachsen<\/h3>\n\n<p>Möchten Sie klassische Tischspiele in Bad Zwischenahn genießen? Unsere Spielbank bietet eine exklusive Auswahl an traditionellen Casinospielen, die von professionellen Croupiers geleitet werden. Roulette, Blackjack und weitere Tischspiele sind das Herzstück jedes echten Casinos – und bei uns erleben Sie diese in einer eleganten Atmosphäre mit fairen Regeln und transparenten Einsatzlimits. Die Tischspiele in unserer Spielbank Bad Zwischenahn folgen den strengen Vorgaben des deutschen Glücksspielstaatsvertrags, sodass Sie stets auf faire und zertifizierte Spielbedingungen vertrauen können. Unsere erfahrenen Croupiers aus der Region begrüßen sowohl Einsteiger als auch erfahrene Spieler herzlich an den Tischen.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Europäisches Roulette:<\/strong> Das klassische Roulette mit einer Null, RTP von 97,3 % und variablen Einsatzlimits. Ideal für Strategiespieler, die auf Rot\/Schwarz, Gerade\/Ungerade oder individuelle Zahlen setzen möchten.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack:<\/strong> Der Klassiker unter den Kartenspielen mit einem RTP von bis zu 99,5 % bei optimaler Strategie. Unsere Tische bieten verschiedene Einsatzstufen – ideal für Anfänger und Profis gleichermaßen.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Poker-Varianten:<\/strong> Von Texas Hold'em bis Casino-Poker bieten wir eine Auswahl an Tischpoker-Spielen, bei denen Sie Ihr Können gegen den Dealer testen können. Professionelle Atmosphäre und faire Regeln garantiert.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weitere Tischspiele:<\/strong> Unser Angebot wächst regelmäßig. Je nach Saison und Nachfrage bieten wir zusätzliche Tischspiele an – fragen Sie unser Personal vor Ort in Bad Zwischenahn.<\/li>\n<\/ul>\n\n<h3>Atmosphäre & Ambiente – Casino-Erlebnis im Kurort Bad Zwischenahn<\/h3>\n\n<p>Die Spielbank Bad Zwischenahn befindet sich im idyllischen Kurort Bad Zwischenahn im Landkreis Ammerland, Niedersachsen – bekannt für den Zwischenahner Meer und seine erholsame Umgebung. Unser Casino ist der perfekte Ort für einen stilvollen Abend nach einem Kuraufenthalt oder einem Ausflug in die Region. Das elegante Ambiente unseres Hauses verbindet modernen Casinocharme mit dem entspannten Flair eines niedersächsischen Kurbades. Gäste aus Oldenburg, Bremen und der gesamten Nordseeküstenregion kommen regelmäßig zu uns für ein einzigartiges Spielerlebnis. Unsere freundlichen Mitarbeiter heißen Sie herzlich willkommen und begleiten Sie durch das gesamte Spielangebot – von den ersten Schritten am Roulettetisch bis hin zur Auswahl des richtigen Jackpot-Automaten.<\/p>\n\n<h3>Verantwortungsvolles Spielen in unserer Spielbank<\/h3>\n\n<p>Verantwortungsvolles Spielen ist für uns keine Pflicht, sondern eine Überzeugung. Als staatlich lizenzierter Betreiber in Niedersachsen erfüllen wir alle gesetzlichen Anforderungen des Glücksspielstaatsvertrags – inklusive Einzahlungslimits, Spielersperren und Zugangskontrollen. Unsere Mitarbeiter sind speziell geschult, um problematisches Spielverhalten frühzeitig zu erkennen und betroffene Gäste diskret auf Hilfsangebote hinzuweisen. Wir kooperieren mit anerkannten deutschen Beratungsstellen und bieten Ihnen auf Wunsch Selbstausschlussmöglichkeiten an. Spielen macht Spaß – und das soll es bleiben. Deshalb setzen wir in unserer Spielbank Bad Zwischenahn auf Transparenz, faire Regeln und den Schutz unserer Gäste.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Softwareanbieter"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Besuch & Öffnungszeiten in Bad Zwischenahn",
+                        "description": "<h2>Besuch planen: Spielbank Bad Zwischenahn – Öffnungszeiten, Dresscode & Anreise<\/h2>\n\n<p>Planen Sie Ihren Besuch in der Spielbank Bad Zwischenahn? Wir freuen uns, Sie in unserem staatlich lizenzierten Casino im Kurort Bad Zwischenahn, Niedersachsen, willkommen zu heißen. Damit Ihr Abend perfekt wird, haben wir alle wichtigen Informationen rund um Öffnungszeiten, Eintritt, Dresscode und Anreise für Sie zusammengestellt. Als offizielles Casino der Merkur Spielbanken Niedersachsen halten wir uns an klare Besucherregeln, die für ein sicheres und angenehmes Spielerlebnis aller Gäste sorgen. Ob Sie alleine kommen, mit dem Partner oder in einer Gruppe – in unserer Spielbank Bad Zwischenahn ist für jeden Gast eine angemessene Willkommensatmosphäre garantiert.<\/p>\n\n<h3>Öffnungszeiten der Spielbank Bad Zwischenahn<\/h3>\n\n<p>Wann hat die Spielbank Bad Zwischenahn geöffnet? Unsere Spielbank öffnet täglich ihre Türen für Gäste aus Bad Zwischenahn, Oldenburg, Wilhelmshaven und der gesamten Region Niedersachsen. Die genauen Öffnungszeiten können je nach Wochentag und Saison variieren – wir empfehlen, sich vorab auf unserer Website oder telefonisch zu informieren. In der Regel sind wir abends geöffnet, sodass Sie Ihren Casino-Besuch ideal mit einem Restaurantbesuch oder einer Kurpromenade im Kurort kombinieren können.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #e8b923;\">\n      <th style=\"border: 1px solid #194073; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Tag<\/th>\n      <th style=\"border: 1px solid #194073; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Öffnung<\/th>\n      <th style=\"border: 1px solid #194073; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Bereich<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #042045;\">\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\"><strong>Mo–Do<\/strong><\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">ab 18:00<\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">Slots & Tische<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0d3261;\">\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\"><strong>Fr–Sa<\/strong><\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">ab 17:00<\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">Slots & Tische<\/td>\n    <\/tr>\n    <tr style=\"background-color: #042045;\">\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\"><strong>Sonntag<\/strong><\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">ab 18:00<\/td>\n      <td style=\"border: 1px solid #194073; padding: 8px; color: #ffffff;\">Slots & Tische<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Dresscode & Zutrittsregeln<\/h3>\n\n<p>Welchen Dresscode gilt in der Spielbank Bad Zwischenahn? Wir legen Wert auf ein gepflegtes Erscheinungsbild unserer Gäste, das der eleganten Atmosphäre unseres Casinos entspricht. Ein schicker Freizeitlook bis hin zu Business-Casual ist in unserer Spielbank vollkommen angemessen – sportliche Kleidung wie Trainingsanzüge oder Badeschuhe ist nicht erwünscht. Der Zutritt zu unserer Spielbank ist Personen ab 18 Jahren vorbehalten; ein gültiger Personalausweis oder Reisepass wird beim Einlass kontrolliert. Diese Regelung dient dem Schutz Minderjähriger und entspricht den gesetzlichen Anforderungen des Landes Niedersachsen. Gäste, die sich im Selbstausschlussregister eingetragen haben, haben keinen Zutritt – so sichern wir verantwortungsvolles Spielen in Bad Zwischenahn.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mindestalter 18 Jahre:<\/strong> Der Zutritt ist ausschließlich Volljährigen gestattet. Bitte führen Sie immer einen gültigen Lichtbildausweis mit sich – Personalausweis oder Reisepass werden an der Eingangskontrolle überprüft.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Dresscode Smart Casual:<\/strong> Wir bitten unsere Gäste um ein gepflegtes Erscheinungsbild. Sportbekleidung, Sandalen oder Badekleidung sind in der Spielbank nicht gestattet – ein freizeitlich-eleganter Look ist ideal.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Spielersperre & OASIS:<\/strong> Deutschland verfügt über ein nationales Spielersperrregister (OASIS). Gesperrte Personen haben keinen Zutritt zu unserer Spielbank Bad Zwischenahn. Dieser Schutz gilt automatisch und bundesweit.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Ausweis- & Einlasskontrolle:<\/strong> An unserem Eingang wird jeder Gast freundlich empfangen und der Ausweis geprüft. Der Prozess ist schnell und diskret – unsere Mitarbeiter sorgen für einen angenehmen Empfang.<\/li>\n<\/ul>\n\n<h3>Anreise zur Spielbank Bad Zwischenahn – So finden Sie uns<\/h3>\n\n<p>Wie komme ich zur Spielbank Bad Zwischenahn? Unser Casino liegt im Herzen des Kurbades Bad Zwischenahn im Landkreis Ammerland, gut erreichbar aus Oldenburg, Wilhelmshaven und der gesamten Niedersachsen-Region. Mit dem Auto erreichen Sie uns bequem über die B75 und die A29; ausreichend Parkplätze stehen direkt am Casino zur Verfügung. Mit öffentlichen Verkehrsmitteln sind wir per Bahn (Bahnhof Bad Zwischenahn) oder Bus aus Oldenburg in ca. 20 Minuten erreichbar. Für Hotelgäste und Kurgäste des Ortes ist unser Casino fußläufig von den meisten Unterkünften aus erreichbar – ideal für einen spontanen Abendbesuch nach dem Kurprogramm.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mit dem Auto:<\/strong> Über die A29 Richtung Oldenburg, Abfahrt Bad Zwischenahn\/Westerstede. Das Casino ist zentral gelegen und mit dem Navi einfach zu finden. Kostenlose Parkplätze sind vorhanden.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mit der Bahn:<\/strong> Direktverbindungen von Oldenburg Hbf nach Bad Zwischenahn (ca. 20 Min.). Vom Bahnhof zum Casino sind es nur wenige Gehminuten durch den Kurort.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mit dem Bus:<\/strong> Regelmäßige Busverbindungen aus Oldenburg und dem Landkreis Ammerland halten direkt im Ortszentrum Bad Zwischenahn. Bitte prüfen Sie aktuelle Fahrpläne beim VBN (Verkehrsverbund Bremen\/Niedersachsen).<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Zu Fuß \/ Fahrrad:<\/strong> Für Gäste, die im Kurort übernachten, ist die Spielbank Bad Zwischenahn bequem zu Fuß oder per Fahrrad zu erreichen – ideal in Kombination mit einem Spaziergang am Zwischenahner Meer.<\/li>\n<\/ul>\n\n<h3>Eintritt & Gebühren in der Spielbank Bad Zwischenahn<\/h3>\n\n<p>Wie viel kostet der Eintritt zur Spielbank Bad Zwischenahn? Der Eintritt in unsere Spielbank ist in der Regel kostenlos – Sie benötigen lediglich Ihren Lichtbildausweis und halten sich an unseren Dresscode. Für besondere Abende und Events kann ein Eintrittsbeitrag erhoben werden, über den wir Sie vorab auf unserer Website informieren. Mitglieder von Treueprogrammen und Stammgäste profitieren gelegentlich von exklusiven Vergünstigungen und Sonderveranstaltungen in unserer Niedersachsen-Spielbank. Wir empfehlen Ihnen, sich für unseren Newsletter anzumelden, um keine Aktionen oder Events in Bad Zwischenahn zu verpassen.<\/p>\n\n<h3>Events & Sonderveranstaltungen in unserer Spielbank<\/h3>\n\n<p>In der Spielbank Bad Zwischenahn finden regelmäßig besondere Abende und Veranstaltungen statt – von Poker-Turnieren bis hin zu thematischen Casino-Nächten. Diese Events sind ideal für Gruppen, die gemeinsam einen aufregenden Abend in Niedersachsen verbringen möchten. Unsere Turniere und Sonderaktionen bieten zusätzliche Gewinnchancen und ein unvergessliches Spielerlebnis in festlicher Atmosphäre. Firmenfeiern, Geburtstagsfeiern und Gruppenausflüge sind bei uns herzlich willkommen – fragen Sie unser Team nach individuellen Arrangements für Ihren besonderen Anlass in Bad Zwischenahn. Folgen Sie uns in den sozialen Medien oder besuchen Sie unsere Website regelmäßig, um über aktuelle Termine informiert zu bleiben.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Wo befindet sich die Spielbank Bad Zwischenahn?",
+                            "answer": "Die Spielbank Bad Zwischenahn liegt im Herzen des gleichnamigen Kurortes im Landkreis Ammerland, Niedersachsen. Sie ist gut erreichbar aus Oldenburg (ca. 20 Min. per Bahn), über die A29 mit eigenem Parkplatz vor Ort. Fußläufig vom Bahnhof und Kurpark gelegen."
+                        },
+                        {
+                            "title": "Welche Spiele gibt es in der Spielbank Bad Zwischenahn?",
+                            "answer": "Wir bieten Slotmaschinen von Merkur Gaming, progressive Jackpots (Cash Connections, Mad Millions) sowie klassische Tischspiele wie Roulette und Blackjack. Alle Geräte sind staatlich zertifiziert und nach dem deutschen Glücksspielstaatsvertrag geprüft."
+                        },
+                        {
+                            "title": "Wie hoch sind die aktuellen Jackpots in Bad Zwischenahn?",
+                            "answer": "Unsere progressiven Jackpots wachsen täglich. Cash Connections stand zuletzt bei 16.871 € und Mad Millions bei 11.279 €. Die aktuellen Stände werden täglich auf unserer Website aktualisiert. Besuchen Sie uns und versuchen Sie Ihr Glück an unseren Jackpot-Automaten!"
+                        },
+                        {
+                            "title": "Ab welchem Alter darf ich die Spielbank besuchen?",
+                            "answer": "Der Zutritt zur Spielbank Bad Zwischenahn ist ausschließlich Personen ab 18 Jahren gestattet. Bitte bringen Sie einen gültigen Lichtbildausweis mit. Dies gilt nach deutschem Glücksspielrecht für alle staatlich lizenzierten Spielbanken in Niedersachsen."
+                        },
+                        {
+                            "title": "Gibt es einen Dresscode in der Spielbank?",
+                            "answer": "Ja, wir bitten um Smart Casual – gepflegte Freizeitkleidung oder Business-Look. Sportbekleidung, Trainingsanzüge und Badeschuhe sind nicht erlaubt. Das elegante Ambiente unseres Casinos in Bad Zwischenahn soll für alle Gäste erhalten bleiben."
+                        },
+                        {
+                            "title": "Wie komme ich mit öffentlichen Verkehrsmitteln zur Spielbank?",
+                            "answer": "Mit der Bahn erreichen Sie uns vom Oldenburger Hauptbahnhof in ca. 20 Minuten (Bahnhof Bad Zwischenahn). Per Bus über den VBN aus Oldenburg und dem Landkreis Ammerland ebenfalls möglich. Vom Bahnhof sind es nur wenige Gehminuten bis zu unserem Casino."
+                        },
+                        {
+                            "title": "Bietet die Spielbank Bad Zwischenahn Events an?",
+                            "answer": "Ja! Wir veranstalten regelmäßig Poker-Turniere, Casino-Nächte und Sonderevents in Bad Zwischenahn. Gruppen, Firmenfeiern und Geburtstage sind herzlich willkommen. Aktuelle Termine finden Sie auf unserer Website oder per Newsletter-Anmeldung."
+                        },
+                        {
+                            "title": "Ist die Spielbank Bad Zwischenahn staatlich lizenziert?",
+                            "answer": "Ja, wir betreiben unsere Spielbank unter staatlicher Konzession des Landes Niedersachsen als Teil der Merkur Spielbanken Niedersachsen. Alle Spiele und Geräte werden regelmäßig von offiziellen Prüfbehörden kontrolliert. Ihre Sicherheit und Fairness ist garantiert."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
